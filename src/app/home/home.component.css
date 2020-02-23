@@ -1,5 +1,6 @@
 .bgImg{
-  background : url("http://getwallpapers.com/wallpaper/full/5/9/5/527052.jpg") left top no-repeat;
+  background : url("https://cdn.jsdelivr.net/gh/PritamGope/Login@master/src/assets/images/bg_space.jpg");
+  height: 100vh;
 }
 .contains{
   width: 10%;
