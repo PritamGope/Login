@@ -1,3 +1,10 @@
 .card{
   background-color: #ecd3e938;
+    margin: auto;
+    color: ghostwhite;
+    top: 125px;
+}
+.backToHome{
+  color: blue;
+  font-size: 15px;
 }

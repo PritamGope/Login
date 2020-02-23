@@ -1,0 +1,19 @@
+.card{
+  background-color: #ecd3e938;
+    margin: auto;
+    color: ghostwhite;
+    top: 125px;
+    max-width: 80%;
+}
+.backToHome{
+  color: blue;
+  width: 50%;
+  text-align: right;
+  margin: 0;
+  float:left;
+}
+.logIn{
+  width: 50%;
+  margin: 0;
+  float:left;
+}

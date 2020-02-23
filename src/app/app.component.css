@@ -2,6 +2,9 @@ p {
   font-family: Lato;
 }
 .bgImg{
-  background : url("https://cdn.jsdelivr.net/gh/PritamGope/Login@master/src/assets/images/bg_space.jpg");
-  height: 100vh;
+  background-image : url("https://cdn.jsdelivr.net/gh/PritamGope/Login@master/src/assets/images/bg_space.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  max-height: 100%;
 }
